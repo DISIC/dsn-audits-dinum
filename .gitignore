@@ -1,0 +1,38 @@
+# Apache
+.htpasswd
+
+# Backup Files
+*.markdown~
+*.md~
+
+# Hugo
+assets/jsconfig.json
+hugo_stats.json
+public/
+resources/
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# OS Files
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## OSX
+.DS_Store
+
+# Editors Files
+
+## Illustrator
+.idea
+
+## IntelliJ
+*.iml
+
+## VIM
+.*.swp

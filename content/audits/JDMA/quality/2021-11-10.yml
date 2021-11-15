@@ -1,0 +1,50 @@
+- pages:
+    - name: Vu sur plusieurs pages
+      blocks:
+        - name: UX
+          errors:
+            - name: |
+                Plusieurs pages en une ?
+              description:
+                Les liens du *footer* [Mentions
+                légales](https://voxusagers.numerique-staging.devxwiki.com/Main/CGU#HMentionslE9gales)
+                et [Données
+                personnelles](https://voxusagers.numerique-staging.devxwiki.com/Main/CGU#HVieprivE9e)
+                renvoient vers des sections de la page [Conditions générales
+                d'utilisation](https://voxusagers.numerique-staging.devxwiki.com/Main/CGU).
+                Des pages séparées avec des titres (`<h1>`) correspondants
+                seraient préférables.
+            - name: |
+                Le format des URIs peut être amélioré
+              description: |
+                Par exemple :
+                - "/mentions-legales" au lieu de "/Main/CGU#HMentionslE9gales"
+                - "/donnees-personnelles" au lieu de "/Main/CGU#HVieprivE9e"
+        - name: Textes
+          errors:
+            - name: |
+                "Mentions Légales" : pourquoi un "L" majuscule ?
+              description: Le "L" de "Légales" devrait être en minuscule
+            - name: |
+                "Espaces superflues"
+              descriptions: |
+                "Espaces superflues" autour de certains labels, comme par exemple : "Manque d'informations avant de commencer la démarche"
+        - name: Bug
+          errors:
+            - name: |
+                Informations erronnées lors du rafraichissement de l'écran
+              description: |
+                Étapes pour reproduire le problème :
+                1) Répondre à la première question
+                2) Au 2e écran, rafraichir la page (F5 sous Windows, ou [Cmd+R] sous Mac par exemple)
+
+                - Attendu : rester sur la même page avec éventuellement les champs déjà remplis conservés
+                - Observé : la première page s'affiche avec un bloc supplémentaire "Comment avez-vous fait cette démarche ?" et des codes du type "${theClass.name}_modalite.mandatoryhint"
+    - name: "Page X"
+      blocks:
+        - name: Textes
+          errors:
+            - name: Question sans point d'interrogation
+              description:
+                Il manque un point d'interrogation à la fin de la question "Bla
+                bla"

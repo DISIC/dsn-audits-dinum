@@ -1,0 +1,15 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = 'DINUM'
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+
+[params]
+  organisation = "DINUM"
+  robots = "noindex, nofollow"

@@ -1,0 +1,107 @@
+"Thématiques","Critères","Formulaire étape 1 – ""Je donne mon avis""|https://voxusagers.numerique-staging.devxwiki.com/Demarches/1897?&view-mode=formulaire-avis&nd_mode=en-ligne-enti%C3%A8rement&nd_source=button&key=9f6d2a5cc93b91073224efed38082d1e","Formulaire étape 2 – ""Merci ! Pouvez-vous nous en dire plus ?""|https://voxusagers.numerique-staging.devxwiki.com/Demarches/1897?tab=avis-tab","Formulaire étape 3 – ""Merci pour votre aide !""|https://voxusagers.numerique-staging.devxwiki.com/Demarches/1897?tab=avis-tab","CGU|https://voxusagers.numerique-staging.devxwiki.com/Main/CGU","Accessibilité|https://voxusagers.numerique-staging.devxwiki.com/Main/accessibilite-formulaire","Mentions Légales|https://voxusagers.numerique-staging.devxwiki.com/Main/CGU#HMentionslE9gales","Données personnelles|https://voxusagers.numerique-staging.devxwiki.com/Main/CGU#HVieprivE9e"
+"1","1","c","c","c",,,,
+"1","2","nc|Les emojis SVG ne sont pas ignorés par les technologies d'assistance (VoiceOver sur Safari). Les titres des SVGs (exemple : ""Avis/Éléments/Mauvais/Emoji/Sélectionné"") est restitué. Il faut ajouter l'attribut `aria-hidden=""true""` sur les balises `<img>` correspondantes, ou bien sur l'élément `<span>` parent.","nc|Les emojis SVG ne sont pas ignorés par les technologies d'assistance (VoiceOver sur Safari). Les titres des SVGs (exemple : ""Avis/Éléments/Mauvais/Emoji/Sélectionné"") est restitué. Il faut ajouter l'attribut `aria-hidden=""true""` sur les balises `<img>` correspondantes, ou bien sur l'élément `<span>` parent.","c",,,,
+"1","3","c","c","c",,,,
+"1","4","na","na","na","na","na","na","na"
+"1","5","na","na","na","na","na","na","na"
+"1","6","c","c","c","c","c","c","c"
+"1","7","na","na","na","na","na","na","na"
+"1","8","c","c","c","c","c","c","c"
+"1","9","na","na","na","na","na","na","na"
+"2","1","na","na","na","na","na","na","na"
+"2","2","na","na","na","na","na","na","na"
+"3","1","c|On pourrait améliorer la perception du choix sélectionné (""Pas bien"", ""Moyen"" ou ""Très bien"") en supprimant par ex. le cadre clair des éléments non sélectionnés. À noter, il faut faire attention à l'utilisation de la pseudo-classe (focus-visible)[https://caniuse.com/css-focus-visible] qui n'est pas disponible sur Safari.","c|On pourrait améliorer la perception du choix sélectionné (""Pas bien"", ""Moyen"" ou ""Très bien"") en supprimant par ex. le cadre clair des éléments non sélectionnés. À noter, il faut faire attention à l'utilisation de la pseudo-classe (focus-visible)[https://caniuse.com/css-focus-visible] qui n'est pas disponible sur Safari.","c|On pourrait améliorer la perception du choix sélectionné (""Pas bien"", ""Moyen"" ou ""Très bien"") en supprimant par ex. le cadre clair des éléments non sélectionnés. À noter, il faut faire attention à l'utilisation de la pseudo-classe (focus-visible)[https://caniuse.com/css-focus-visible] qui n'est pas disponible sur Safari.",,,,
+"3","2","c","c","c",,,,
+"3","3","nc|[Le visage neutre en orange](https://voxusagers.numerique-staging.devxwiki.com/resources//uicomponents/custom-icons/dsfr-smileys/medium.svg) n'est pas suffisamment contrasté (environ 2:1 au lieu de 3:1 minimum)","nc|[Le visage neutre en orange](https://voxusagers.numerique-staging.devxwiki.com/resources//uicomponents/custom-icons/dsfr-smileys/medium.svg) n'est pas suffisamment contrasté (environ 2:1 au lieu de 3:1 minimum)","nc|[Le visage neutre en orange](https://voxusagers.numerique-staging.devxwiki.com/resources//uicomponents/custom-icons/dsfr-smileys/medium.svg) n'est pas suffisamment contrasté (environ 2:1 au lieu de 3:1 minimum)",,,,
+"4","1","na","na","na","na","na","na","na"
+"4","2","na","na","na","na","na","na","na"
+"4","3","na","na","na","na","na","na","na"
+"4","4","na","na","na","na","na","na","na"
+"4","5","na","na","na","na","na","na","na"
+"4","6","na","na","na","na","na","na","na"
+"4","7","na","na","na","na","na","na","na"
+"4","8","na","na","na","na","na","na","na"
+"4","9","na","na","na","na","na","na","na"
+"4","10","na","na","na","na","na","na","na"
+"4","11","na","na","na","na","na","na","na"
+"4","12","na","na","na","na","na","na","na"
+"4","13","na","na","na","na","na","na","na"
+"5","1","na","na","na",,,,
+"5","2","na","na","na",,,,
+"5","3","na","na","na",,,,
+"5","4","na","na","na",,,,
+"5","5","na","na","na",,,,
+"5","6","na","na","na",,,,
+"5","7","na","na","na",,,,
+"5","8","na","na","na",,,,
+"6","1","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub"".","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub"".","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub"".","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub"".","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub"".","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub"".","nc|Le lien ""Code open source"" ouvre une nouvelle fenêtre mais n'inclut pas ""(nouvelle fenêtre)"" dans son intitulé. Ajouter un attribut `title=""Code open source (nouvelle fenêtre)""`. Peut-être réfléchir à remplacer l'expression ""open source"" par un équivalent français (?). Peut-être aussi qu'il faudrait décrire la destination du lien de façon plus précise. Par exemple : ""Dépôt de code sur GitHub""."
+"6","2","c","c","c",,,,
+"7","1","c","c","c",,,,
+"7","2","nc|Lorsque JavaScript est désactivé, il n'est pas possible de passer à l'étape suivante","nc|Lorsque JavaScript est désactivé, les questions ne s'affichent pas","c",,,,
+"7","3","c","c","c",,,,
+"7","4","c","c|Les cases à cocher ""Autre"" mériterait un intitulé plus précis. Par exemple, ajouter "" (bloc de saisie supplémentaire)""|La déselection automatique du choix ""aucune"" pour la question ""De quelle aide avez-vous eu besoin ?"" n'est pas évidente. Peut-être penser à remanier le formulaire (séparer la question en 2 questions ?) ou à utiliser `aria-live`.","na",,,,
+"7","5","na","na","na","na","na","na","na"
+"8","1","c","c","c","c","c","c","c"
+"8","2","nc|!F!Il faut juste enlever l'attribut non valide `value` dans l'élément `<textarea id=""Avis.Code.AvisClass_0_voteInput"">`","nc|!F!Il faut juste enlever l'attribut non valide `value` dans l'élément `<textarea id=""Avis.Code.AvisClass_0_voteInput"">`","nc|!F!Il faut juste enlever l'attribut non valide `value` dans l'élément `<textarea id=""Avis.Code.AvisClass_0_voteInput"">`",,,,
+"8","3","c","c","c",,,,
+"8","4","c","c","c",,,,
+"8","5","c","c","c",,,,
+"8","6","c","c","c",,,,
+"8","7","na","na","na","na","na","na","na"
+"8","8","na","na","na","na","na","na","na"
+"8","9","c","c","c",,,,
+"8","10","na","na","na","na","na","na","na"
+"9","1","c|Le titre ""Démarche : email test"" ne doit peut-être pas nécessairement être un titre de niveau 2 (`<h2>`). On note d'ailleurs qu'il n'y a pas de titre de niveau 2 à la page suivante.","c","c|Le titre ""À quoi va servir votre avis"" ne doit peut-être pas nécessairement être un titre de niveau 2 (`<h2>`). On note d'ailleurs qu'il n'y a pas de titre de niveau 2 à la page précédente.",,,,
+"9","2","nc|La zone de contenu principal n'est structurée via une balise `<main>`","nc|La zone de contenu principal n'est structurée via une balise `<main>`","nc|La zone de contenu principal n'est structurée via une balise `<main>`",,,,
+"9","3","c","c","c",,,,
+"9","4","na","na","na","na","na","na","na"
+"10","1","c","c","c",,,,
+"10","2","c","c","c",,,,
+"10","3","c|Le bloc question ""Auriez-vous préféré faire cette démarche en ligne ?"" apparait lorsque les feuilles de styles sont désactivées (`.vote-container { display: none; }`). Mieux vaudrait ne pas inclure du tout ce bloc dans le DOM. Bénéfices : moins de code à télécharger, et une page plus claire pour les utilisateurs désactivant les feuilles de styles)","c","c",,,,
+"10","4","c","c","c",,,,
+"10","5","c","c","c",,,,
+"10","6","c","c","c",,,,
+"10","7","nc|Sur Safari, le focus n'est pas visible sur les groupes de boutons radio (exemple : ""Pas bien"", ""Moyen"", ""Très bien"") car la pseudo-classe (focus-visible)[https://caniuse.com/css-focus-visible] n'est pas disponible sur Safari |Aussi, attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens","nc|Sur Safari, le focus n'est pas visible sur les groupes de boutons radio (exemple : ""Pas bien"", ""Moyen"", ""Très bien"") car la pseudo-classe (focus-visible)[https://caniuse.com/css-focus-visible] n'est pas disponible sur Safari |Aussi, attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens","c|Attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens","c|Attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens","c|Attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens","c|Attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens","c|Attention à l'*offset* négatif de l'*outline* (`outline-offset: -2px`) qui cache un peu les bords des textes de liens"
+"10","8","c","c","c",,,,
+"10","9","c","c","c",,,,
+"10","10","c","c","c",,,,
+"10","11","c","c","c",,,,
+"10","12","c","c","c",,,,
+"10","13","na","na","na",,,,
+"10","14","na","na","na",,,,
+"11","1","c","c","na",,,,
+"11","2","nc|Sur Safari, les labels incluant les emojis sont mal vocalisés. Par exemple, pour le choix ""Pas bien"", le label vocalisé est ""Avis/Éléments/Mauvais/Emoji/Sélectionné et un élément de plus"". ""Avis/Éléments/Mauvais/Emoji/Sélectionné"" correspond au titre du SVG. En ajoutant un attribut `aria-hidden=""true"" sur l'élément parent des 2 images (`<span class=""radiovote-icon"">`) le problème disparait et le texte vocalisé devient ""Pas bien"".","nc|Sur Safari, les labels incluant les emojis sont mal vocalisés. Par exemple, pour le choix ""Pas bien"", le label vocalisé est ""Avis/Éléments/Mauvais/Emoji/Sélectionné et un élément de plus"". ""Avis/Éléments/Mauvais/Emoji/Sélectionné"" correspond au titre du SVG. En ajoutant un attribut `aria-hidden=""true"" sur l'élément parent des 2 images (`<span class=""radiovote-icon"">`) le problème disparait et le texte vocalisé devient ""Pas bien"". Petit souci également avec le label du champ ""Pouvez-vous préciser quelle autre difficulté vous avez rencontré ?"" qui inclue un texte + un `<span>`, ce dernier étant vocalisé comme ""un élément de plus"".","na",,,,
+"11","3","c","c","na",,,,
+"11","4","c","c","na",,,,
+"11","5","c","c","na",,,,
+"11","6","c","c","na",,,,
+"11","7","c","c","na",,,,
+"11","8","na","na","na",,,,
+"11","9","c","c","na",,,,
+"11","10","c","c","na",,,,
+"11","11","c","c","na",,,,
+"11","12","na","na","na","na","na","na","na"
+"11","13","na","na","na",,,,
+"12","1","na","na","na","na","na","na","na"
+"12","2","c","c","c","c","c","c","c"
+"12","3","na","na","na","na","na","na","na"
+"12","4","na","na","na","na","na","na","na"
+"12","5","na","na","na","na","na","na","na"
+"12","6","c|Attention, on devrait enlever le lien d'accès rapide au menu lorsque celui-ci est vide","c|Attention, on devrait enlever le lien d'accès rapide au menu lorsque celui-ci est vide","c|Attention, on devrait enlever le lien d'accès rapide au menu lorsque celui-ci est vide",,,,
+"12","7","c","c","c",,,,
+"12","8","c","c","c",,,,
+"12","9","c","c","c",,,,
+"12","10","na","na","na",,,,
+"12","11","c","c","c",,,,
+"13","1","na","na","na","na","na","na","na"
+"13","2","c","c","c",,,,
+"13","3","na","na","na","na","na","na","na"
+"13","4","na","na","na","na","na","na","na"
+"13","5","na","na","na","na","na","na","na"
+"13","6","na","na","na","na","na","na","na"
+"13","7","na","na","na","na","na","na","na"
+"13","8","na","na","na","na","na","na","na"
+"13","9","c","c","c","c","c","c","c"
+"13","10","na","na","na","na","na","na","na"
+"13","11","na","na","na","na","na","na","na"
+"13","12","na","na","na","na","na","na","na"

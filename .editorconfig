@@ -1,0 +1,17 @@
+# Documentation: https://EditorConfig.org
+
+# Top-most EditorConfig file
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Avoid trailing space trim for mardown files
+# See https://github.com/editorconfig/editorconfig-vscode/issues/153
+[*.{markdown,md,yml}]
+trim_trailing_whitespace = false
