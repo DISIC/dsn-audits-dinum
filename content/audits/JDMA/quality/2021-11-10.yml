@@ -40,11 +40,3 @@
 
                 - Attendu : rester sur la même page avec éventuellement les champs déjà remplis conservés
                 - Observé : la première page s'affiche avec un bloc supplémentaire "Comment avez-vous fait cette démarche ?" et des codes du type "${theClass.name}_modalite.mandatoryhint"
-    - name: "Page X"
-      blocks:
-        - name: Textes
-          errors:
-            - name: Question sans point d'interrogation
-              description:
-                Il manque un point d'interrogation à la fin de la question "Bla
-                bla"
