@@ -1,6 +1,6 @@
 +++
 title = "Accueil"
-description = "__DESCRIPTION_PROJET__"
+description = "Direction Interministérielle du NUMérique – Mise en conformité de démarches en ligne"
 type = "projects"
 +++
 
