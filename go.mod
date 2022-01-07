@@ -1,4 +1,4 @@
-module gitlab.com/goodimpact/dinum/audit/affaires-sociales
+module github.com/DISIC/dsn-audits-dinum
 
 go 1.16
 
