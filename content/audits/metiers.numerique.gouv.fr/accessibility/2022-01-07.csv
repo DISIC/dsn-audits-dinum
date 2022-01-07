@@ -82,19 +82,19 @@
 "11","11",,,,,,
 "11","12",,,,,,
 "11","13",,,,,,
-"12","1",,,,,,
-"12","2",,,,,,
-"12","3",,,,,,
-"12","4",,,,,,
-"12","5",,,,,,
-"12","6",,,,,,
-"12","7",,,,,,
-"12","8",,,,,,
-"12","9",,,,,,
-"12","10",,,,,,
+"12","1","nc| Absence d'un plan de site ou moteur de recherche","nc| Absence d'un plan de site ou moteur de recherche","nc| Absence d'un plan de site ou moteur de recherche","nc| Absence d'un plan de site ou moteur de recherche",nc| Absence d'un plan de site ou moteur de recherche,nc| Absence d'un plan de site ou moteur de recherche
+"12","2","c","c","c","c",c,c
+"12","3","na","na","na","na",na,na
+"12","4","na","na","na","na",na,na
+"12","5","na","na","na","na",na,na
+"12","6","c","c","c","c",c,c
+"12","7","nc|Presence de liens d'évitement non fonctionnels","nc|Presence de liens d'évitement non fonctionnels","nc|Presence de liens d'évitement non fonctionnels","nc|Presence de liens d'évitement non fonctionnels",nc|Presence de liens d'évitement non fonctionnels,nc|Presence de liens d'évitement non fonctionnels
+"12","8","c",,,,,
+"12","9","c",,,,,
+"12","10","na",,,,,
 "12","11",,,,,,
 "13","1",,,,,,
-"13","2",,,,,,
+"13","2","c",,,,,
 "13","3",,,,,,
 "13","4",,,,,,
 "13","5",,,,,,
