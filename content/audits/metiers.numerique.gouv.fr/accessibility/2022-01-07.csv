@@ -38,15 +38,13 @@
 Le lien ""République Française"" en pied de page n'est pas explicite, ajouter un intitulé permettant de comprendre la destination du lien. Par exemple ""Accueil - metiers.numerique.gouv.fr""
 | Note : Les intitulés de lien ""Voir la vidéo"" sont explicites par le contexte, on peut améliorer l'intitulé lui même en ajoutant un attribut _title_, par exemple, title=""Voir la vidéo de Marine (nouvelle fenêtre)""",,,,,
 "6","2","c",,,,,
-"7","1","nc| Le bouton du menu en version mobile ne marche pas (les valeurs d'aria-controls et aria-haspopup sont erronées). | Remprendre le modèle présent sur le Design System de l'État : https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789853/Navigation+principale+-+Main+navigation
- | Le composant d'interface du chat n'est pas lu par les TA",,,,,
+"7","1","nc| Le bouton du menu en version mobile ne marche pas (les valeurs d'aria-controls et aria-haspopup sont erronées). | Remprendre le modèle présent sur le Design System de l'État : https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789853/Navigation+principale+-+Main+navigation | Le composant d'interface du chat n'est pas lu par les TA",,,,,
 "7","2",,,,,,
 "7","3","nc| Le bouton du menu en version mobile n'est pas contrôlable au clavier|Le composant du chat n’est pas atteignable au clavier",,,,,
 "7","4","na",,,,,
 "7","5","na",,,,,
 "8","1","c",,,,,
-"8","2","nc | Présence de deux attributs _id_ dans le champ de formulaire <input class=""fr-input"">
-| Présence des attributs _required_ et _type_ en double dans le même champ de formulaire <input class=""fr-input"">
+"8","2","nc | Présence de deux attributs _id_ dans le champ de formulaire <input class=""fr-input""> | Présence des attributs _required_ et _type_ en double dans le même champ de formulaire <input class=""fr-input"">
 ",,,,,
 "8","3","c",,,,,
 "8","4","c",,,,,
