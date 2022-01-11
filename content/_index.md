@@ -1,6 +1,6 @@
 +++
 title = "Accueil"
-description = "Direction Interministérielle du NUMérique – Mise en conformité de démarches en ligne"
+description = "Direction Interministérielle du NUMérique – Mise en conformité de démarches en ligne"
 type = "projects"
 +++
 
