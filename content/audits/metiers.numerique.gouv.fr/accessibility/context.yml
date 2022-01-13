@@ -11,18 +11,17 @@ audits:
       [
         "Inspecteur de code Chrome",
         "Inspecteur de code Safari",
-        "Extension Chrome Assistant RGAA",
         "Extension Chrome HeadingsMap",
         "Extension Chrome Web Developer",
-        "Extension Chrome Wave",
+        "Extension ARC Toolkit",
         "Color Contrast Analyser",
         "The W3C Markup Validation Service (validator.w3.org)",
       ]
     environment:
       [
-        "MacOS Catalina 10.15.7",
-        "Brave 1.30.89 Chromium: 94.0.4606.81",
-        "Safari Version 14.1.2 (15611.3.10.1.5, 15611)",
+        "MacOS BigSur 11.6.1",
+        "Chrome Version 97.0.4692.71",
+        "Safari Version 15.1 (16612.2.9.1.30, 16612)",
       ]
   contact:
     email: __CONTACT_AUDIT_01_EMAIL__
