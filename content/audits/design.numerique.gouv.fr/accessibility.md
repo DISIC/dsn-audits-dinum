@@ -1,6 +1,6 @@
 ---
 description: Étude de la conformité RGAA des pages du site.
-date: 2022-02-04
+date: 2022-03-30
 type: accessibility
 kind: page
 accessibility:
@@ -11,20 +11,18 @@ accessibility:
     technologies: ["HTML", "CSS", "JavaScript"]
     tools:
       [
-        "Inspecteur de code Chrome",
         "Inspecteur de code Safari",
-        "Extension Chrome Assistant RGAA",
-        "Extension Chrome HeadingsMap",
-        "Extension Chrome Web Developer",
-        "Extension Chrome Wave",
+        "HeadingsMap",
+        "Web Developer Chrome extension",
         "Color Contrast Analyser",
+        "ArcToolkit",
         "The W3C Markup Validation Service (validator.w3.org)",
       ]
     environment:
       [
-        "MacOS Catalina 10.15.7",
-        "Brave 1.35.100 Chromium: 98.0.4758.87",
-        "Safari Version 15.2 (15612.3.6.1.8, 15612)",
+        "MacOS BigSur 11.6.1",
+        "Version 98.0.4758.80",
+        "Safari Version 15.4",
       ]
   contact:
     email: __CONTACT_EMAIL__
