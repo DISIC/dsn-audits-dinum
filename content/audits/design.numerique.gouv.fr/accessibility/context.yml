@@ -1,4 +1,4 @@
-website: https://code.gouv.fr
+website: https://design.numerique.gouv.fr/
 contacts:
   email: __CONTACT_EMAIL__
   address: __CONTACT_ADDRESS__
@@ -23,6 +23,23 @@ audits:
         "MacOS Catalina 10.15.7",
         "Brave 1.35.100 Chromium: 98.0.4758.87",
         "Safari Version 15.2 (15612.3.6.1.8, 15612)",
+      ]
+  "2021-03-30":
+    guidelines: "RGAA 4.1"
+    condition: "Auto-évaluation"
+    technologies: ["HTML", "CSS", "JavaScript"]
+    tools:
+      [
+        "HeadingsMap",
+        "Web Developer Chrome extension",
+        "Color Contrast Analyser",
+        "ArcToolkit",
+      ]
+    environment:
+      [
+        "MacOS BigSur 11.6.1",
+        "Version 98.0.4758.80",
+        "Safari Version 15.4",
       ]
   contact:
     email: __CONTACT_AUDIT_01_EMAIL__
