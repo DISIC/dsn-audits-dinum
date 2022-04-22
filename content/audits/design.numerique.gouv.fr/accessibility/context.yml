@@ -3,7 +3,7 @@ contacts:
   email: __CONTACT_EMAIL__
   address: __CONTACT_ADDRESS__
 audits:
-  "2021-03-30":
+  "2022-03-30":
     guidelines: "RGAA 4.1"
     condition: "Auto-évaluation"
     technologies: ["HTML", "CSS", "JavaScript"]
