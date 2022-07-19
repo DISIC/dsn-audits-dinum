@@ -1,6 +1,6 @@
 ---
 description: Étude de la conformité RGAA des pages du site.
-date: 2022-05-16
+date: 2022-07-18
 type: accessibility
 kind: page
 accessibility:
@@ -25,6 +25,6 @@ accessibility:
         "Safari Version 15.4",
       ]
   contact:
-    email: __CONTACT_EMAIL__
-    address: __CONTACT_ADDRESS__
+    email: communication.dinum@modernisation.gouv.fr
+    address: 20 avenue de Ségur, 75 007 Paris
 ---
